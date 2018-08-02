@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff213a0e6c49f574f96371692f6a8752
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerName: {instanceID: 0}
+  - playerLives: {instanceID: 0}
+  - skullSprite: {fileID: 21300000, guid: 45248f4a5712d8549ab78e7ed12066f2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
