@@ -1,0 +1,2 @@
+# simple-spacewar-game
+This is a simple Spacewar-like game that I made using Unity in 4ish days. It does support multiplayer through hamachi  (and any other similar services), and supports games up to 4 players. The game isn't perfect, but it isn't necessarily supposed to be as it was a small game that I wanted to play with some friends with. This is also my first time making a game like this and my first time using Unet.
